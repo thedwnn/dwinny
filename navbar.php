@@ -1,7 +1,7 @@
 <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
   <div class="container-fluid">
     <a class="navbar-brand" href="index.php">
-        <img src="images/newlogo.png" class="rounded-circle" alt="Spice" style="width: 50px">
+        <img src="Images/newlogo.png" class="rounded-circle" alt="Spice" style="width: 50px">
     </a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
       <span class="navbar-toggler-icon"></span>
